@@ -1,4 +1,4 @@
-MongoDB Utils Library
-=====================
+OORL
+====
 
 Object Oriented URL utilities
